@@ -29,6 +29,11 @@
   resolved "https://registry.yarnpkg.com/@aws-cdk/aws-appsync-alpha/-/aws-appsync-alpha-2.15.0-alpha.0.tgz#12946c2ebeb6682a95766d36147ebe9764245bee"
   integrity sha512-Nr2wWtyoqyWQYFcGfUr1EZdun6Mvzvc9qpybB52gnBuTOQJ4ahgiacNgGeM3nRxPMMQ0JYmbAePXDXGEMhTdbA==
 
+"@aws-cdk/aws-lambda-python-alpha@^2.17.0-alpha.0":
+  version "2.17.0-alpha.0"
+  resolved "https://registry.yarnpkg.com/@aws-cdk/aws-lambda-python-alpha/-/aws-lambda-python-alpha-2.17.0-alpha.0.tgz#d709613a719792f449d3364bc5c6a5ec422b36b8"
+  integrity sha512-8uKzOa+LEaNEZW0Zt6cwXteV8uy1OSJjS8SByOJ8vkHpoODwzqvjYe1ER9ehfTbDwgECRjePZCxmh12duEuWFw==
+
 "@babel/code-frame@^7.0.0", "@babel/code-frame@^7.12.13", "@babel/code-frame@^7.16.7":
   version "7.16.7"
   resolved "https://registry.yarnpkg.com/@babel/code-frame/-/code-frame-7.16.7.tgz#44416b6bd7624b998f5b1af5d470856c40138789"

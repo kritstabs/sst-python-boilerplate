@@ -1,4 +1,4 @@
-import MyStack from "./MyStack";
+import ColorStack from "./color_stack/ColorStack";
 
 export default function main(app) {
   // Set default runtime for all functions
@@ -6,7 +6,7 @@ export default function main(app) {
     runtime: "nodejs14.x"
   });
 
-  new MyStack(app, "my-stack");
+  new ColorStack(app, "ColorStack");
 
   // Add more stacks
 }

@@ -10,9 +10,12 @@
     "remove": "sst remove"
   },
   "eslintConfig": {
-    "extends": ["serverless-stack"]
+    "extends": [
+      "serverless-stack"
+    ]
   },
   "dependencies": {
+    "@aws-cdk/aws-lambda-python-alpha": "^2.17.0-alpha.0",
     "@serverless-stack/cli": "0.69.2",
     "@serverless-stack/resources": "0.69.2",
     "aws-cdk-lib": "2.15.0"

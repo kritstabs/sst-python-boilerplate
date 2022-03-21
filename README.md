@@ -1,3 +1,9 @@
+`yarn install`
+`python3 -m venv .venv`
+`source .venv/bin/activate`
+`pip install -r requirements.txt`
+
+
 # Getting Started with Serverless Stack (SST)
 
 This project was bootstrapped with [Create Serverless Stack](https://docs.serverless-stack.com/packages/create-serverless-stack).

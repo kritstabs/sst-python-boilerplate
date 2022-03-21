@@ -1,0 +1,8 @@
+# Install requirements for layers
+-r layers/myhelper/requirements.txt
+
+# Install layers
+-e layers/myhelper/
+
+# Lambda specific requirements
+-r stacks/color_stack/lambdas/color_api/requirements.txt
