@@ -6,6 +6,7 @@
 
 `pip install -r requirements.txt`
 
+`export IS_LOCAL=1` # todo: replace with inbuilt debug, required to ignore layer for local development - its sufficient with installed requirements.txt
 
 # Getting Started with Serverless Stack (SST)
 
